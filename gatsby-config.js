@@ -4,7 +4,7 @@ module.exports = {
     siteTitle: 'Barry Running',
     siteUrl: 'https://running.yct.ee',
     logo: 'https://blog.yct.ee/medias/favicon.webp',
-    description: 'Personal site and blog',
+    description: 'Just Personal site and blog',
     navLinks: [
       {
         name: 'Blog',

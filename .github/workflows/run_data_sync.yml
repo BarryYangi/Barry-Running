@@ -122,7 +122,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
             github_token: ${{ secrets.MY_GIT_TOKEN }}
-            publish_branch: vercel-pages
+            publish_branch: main
             publish_dir: .
             force_orphan: true
             # keep_files: true

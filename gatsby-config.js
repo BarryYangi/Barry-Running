@@ -2,18 +2,14 @@ module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
     siteTitle: 'Barry Running',
-    siteUrl: 'https://running.yct.ee',
-    logo: 'https://blog.yct.ee/medias/favicon.webp',
-    description: 'Personal site and blog',
+    siteUrl: 'https://run.yct.ee',
+    logo: 'http://q1.qlogo.cn/g?b=qq&nk=2059484047&s=640',
+    description: 'Running For Happy.',
     navLinks: [
       {
-        name: 'Blog',
-        url: 'https://www.barryi.me/',
-      },
-      {
-        name: 'About',
-        url: 'https://www.barryi.me/personal/about/',
-      },
+        name: 'Barry',
+        url: 'https://yct.ee/me',
+      }
     ],
   },
   plugins: [

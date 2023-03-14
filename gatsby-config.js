@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Barry Running',
     siteUrl: 'https://run.yct.ee',
-    logo: 'https://easyimage.smitten.top/i/2023/01/26/xh2qvw.jpg)',
+    logo: 'https://easyimage.smitten.top/i/2023/01/26/xh2qvw.jpg',
     description: 'Running For Happy.',
     navLinks: [
       {
